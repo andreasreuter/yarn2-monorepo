@@ -8,9 +8,10 @@
     "skipLibCheck": true,
     "declaration": true,
     "outDir": "build",
-    "rootDir": "src",
-    "composite": true
+    "rootDir": "lib",
+    "composite": true,
+    "types": ["@types/jest"]
   },
-  "include": ["src/**/*"],
-  "exclude": ["build"]
+  "include": ["lib/**/*"],
+  "exclude": ["build", "__tests__"]
 }
