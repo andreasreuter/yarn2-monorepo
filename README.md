@@ -1,6 +1,6 @@
 # yarn2-monorepo
 
-Newest getting started template for a monorepo with Yarn2. I actively maintain this template.
+Latest getting started template for a monorepo with Yarn2. I actively maintain this template.
 
 # Welcome
 
