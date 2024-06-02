@@ -1,11 +1,9 @@
 # `package-2`
 
-> TODO: description
+Describe your package here!
 
 ## Usage
 
 ```
 const package2 = require('package-2');
-
-// TODO: DEMONSTRATE API
 ```
